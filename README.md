@@ -1,4 +1,4 @@
-##Project tittle 
+#Project tittle 
 [case]tome 
 customisable phone cases for todays generation, trendy phone cases to suit your style and always protect your phone.
 ## installation 
