@@ -1,6 +1,5 @@
 ## Project tittle 
-[case]tome 
-customisable phone cases for todays generation, trendy phone cases to suit your style and always protect your phone.
+solar system website
 
 ## installation 
 HTML, CSS and java script 
@@ -10,5 +9,5 @@ run on the web browser
 
 ## Authors 
 Arshmit 
-Shamar
-Kyron 
+bruno
+murilo
